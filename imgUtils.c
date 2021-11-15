@@ -1,18 +1,4 @@
-/*
- * CSC A48 - Intro to Computer Science II, Summer 2020
- *
- * This file provides utilities required to draw the image your turtle will
- * create once implemented.
- *
- * You do NOT have to understand (or even read) this file as part of the
- * as part of the assignment. However, if you're curious, and you spend a bit
- * of time looking through the code here, you will learn something :)
- *
- * Derived by an image processing library by Francisco Estrada
- * Modified for this assignment by Mustafa Quraish
- *
- * (c) 2020 Francisco Estrada & Mustafa Quraish
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
