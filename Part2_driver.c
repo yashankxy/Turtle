@@ -1,13 +1,3 @@
-/**
- * CSC A48 - Intro to Computer Science II, Summer 2020
- * 
- * This file provides a test driver for part 2. Same conditions
- * apply as for the interactive driver for part 1!
- * 
- * Developed by Mustafa Quraish for CSCA48
- * (c) Mustafa Quraish 2020
- */
-
 #define SIZEX 512
 #define SIZEY 512
 
