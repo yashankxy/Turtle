@@ -1,26 +1,4 @@
-/**
- * CSC A48 - Intro to Computer Science II, Summer 2020
- * 
- * This file provides a test driver you can use while developing your
- * solution to test different components.
- * 
- * This is provided *only* with the intent of helping you test, and
- * of getting an idea of what *some* of the tests we will subject 
- * your code to look like.
- * 
- * Passing all the tests in this driver *does not mean your code is
- * bug free*, you have to do much more extensive and thorough testing
- * on your own (a separate interactive driver is provided, and should
- * be helpful with that). 
- * 
- * Remember: You are expected to test for *correctness*, that means
- * it's not enough for your functions to produce the right result,
- * they have to do so by manipulating all the relevant data correctly.
- * You should check for structure and correctness at every step.
- * 
- * Developed by Mustafa Quraish for CSCA48
- * (c) Mustafa Quraish 2020
- */
+
 
 #define SIZEX 512
 #define SIZEY 512
