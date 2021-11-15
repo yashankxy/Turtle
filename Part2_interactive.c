@@ -1,14 +1,3 @@
-/**
- * CSC A48 - Intro to Computer Science II, Summer 2020
- * 
- * This file provides the interactive driver for part 2. It's 
- * intended to help you test as you work on your solution. You
- * have to determine what tests to run and how to ensure that
- * your solution works and is correct.
- * 
- * Developed by Mustafa Quraish for CSCA48
- * (c) Mustafa Quraish 2020
- */
 
 #define SIZEX 512
 #define SIZEY 512
