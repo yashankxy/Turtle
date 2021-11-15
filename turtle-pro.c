@@ -1,20 +1,4 @@
-/**
- * CSC A48 - Intro to Computer Science II, Summer 2020
- * 
- * This is the program file where you will implement your solution for
- * assignment 1. Please make sure you read through this file carefully
- * and that you understand what is provided and what you need to complete.
- * 
- * You will need to have read the handout carefully. Parts where you have to 
- * implement functionality are clearly labeled TODO.
- * 
- * Be sure to test your work thoroughly, our testing will be extensive and will
- * check that your solution is *correct*, not only that it provides 
- * functionality.
- * 
- * Developed by Mustafa Quraish for CSCA48
- * (c) Mustafa Quraish 2020
- */
+
 #include "imgUtils.c"
 
 // This lets the driver code override the image size if it needs to. Make sure 
